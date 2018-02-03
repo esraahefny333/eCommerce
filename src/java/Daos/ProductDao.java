@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package Daos;
 
 /**
  *
- * @author esraa
+ * @author 3alilio
  */
-public class jj {
-    //hhhhh
+public class ProductDao {
+    
 }
